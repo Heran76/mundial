@@ -2,9 +2,11 @@
 El mundial de fútbol
 Para los que no estén muy familiarizados con el deporte rey, se explicará a continuación el
 funcionamiento.
+
 El campeonato del mundo de fútbol lo disputan 32 equipos nacionales de fútbol y consta de dos
 fases: la fase de grupos y la fase de eliminatorias.
 Fase grupos (opcional)
+
 Estos 32 equipos se agrupan en 8 grupos de 4 equipos cada uno. Aunque en realidad hay reglas
 sobre cómo los equipos se distribuyen en los grupos, para esta práctica se ignorarán.
 Los grupos se nombran por letras en orden alfabético, desde la A hasta la H.
@@ -25,6 +27,7 @@ goles (goles a favor - goles en contra).
 orden alfabético (vaya putada para Zimbabue).
 IMPORTANTE: Ésta parte es opcional. Para obtener un APTO en la pŕactica se deberá
 desarrollar, al menos, la fase de eliminatorias (play off) descrita a continuación.
+
 Fase de eliminatorias (playoff)
 La fase de eliminatorias la jugarán los 16 mejores equipos de la fase de grupos (los dos primeros
 de cada grupo), en caso de implementar la fase de grupos (opcional). De no implementar la fase
@@ -54,9 +57,11 @@ B, C y D y los segundos equipos de los grupos E, F, G y H, irán por un lado de 
 primeros equipos de los grupos E, F, G y H y los segundos equipos de los grupos A, B, C y D irán
 por otro lado del cuadro (ver imagen al final del documento).
 Requisitos del programa mínimo
+
 El programa comenzará indicando con un mensaje que “comienza el torneo”.
 El programa deberá mostrar los 16 equipos participantes en la fase de eliminatorias (play
 off).
+
 A continuación se deberán mostrar los resultados de los partidos en las diferentes rondas
 (octavos de final, cuartos de final y semifinales), indicando qué equipos se clasifican para
 la siguiente ronda (esto se mostrará desde octavos de final hasta semifinales).
@@ -64,7 +69,9 @@ Opcional: Una vez finalizadas las semifinales, se mostrará el resultado del par
 tercer y cuarto puesto (que se juega entre equipos no clasificados para la final).
 Tras esto, se mostrará el resultado del partido de la final, anunciando posteriormente el
 equipo ganador como campeón del mundo.
-Requisitos con la fase de grupos●Al arrancar el programa se deberá mostrar por pantalla la información de los equipos que
+
+Requisitos con la fase de grupos 
+Al arrancar el programa se deberá mostrar por pantalla la información de los equipos que
 hay en cada grupo y la planificación de partidos del mismo.
 ○Nombre del grupo
 ○Listado de los equipos (una en cada línea)
