@@ -1,3 +1,4 @@
+# PRACTICA JAVASCRIPT BOOTCAMP WEB
 El mundial de fútbol
 Para los que no estén muy familiarizados con el deporte rey, se explicará a continuación el
 funcionamiento.
@@ -53,28 +54,28 @@ B, C y D y los segundos equipos de los grupos E, F, G y H, irán por un lado de 
 primeros equipos de los grupos E, F, G y H y los segundos equipos de los grupos A, B, C y D irán
 por otro lado del cuadro (ver imagen al final del documento).
 Requisitos del programa mínimo
-●El programa comenzará indicando con un mensaje que “comienza el torneo”.
-●El programa deberá mostrar los 16 equipos participantes en la fase de eliminatorias (play
+El programa comenzará indicando con un mensaje que “comienza el torneo”.
+El programa deberá mostrar los 16 equipos participantes en la fase de eliminatorias (play
 off).
-●A continuación se deberán mostrar los resultados de los partidos en las diferentes rondas
+A continuación se deberán mostrar los resultados de los partidos en las diferentes rondas
 (octavos de final, cuartos de final y semifinales), indicando qué equipos se clasifican para
 la siguiente ronda (esto se mostrará desde octavos de final hasta semifinales).
-●Opcional: Una vez finalizadas las semifinales, se mostrará el resultado del partido de
+Opcional: Una vez finalizadas las semifinales, se mostrará el resultado del partido de
 tercer y cuarto puesto (que se juega entre equipos no clasificados para la final).
-●Tras esto, se mostrará el resultado del partido de la final, anunciando posteriormente el
+Tras esto, se mostrará el resultado del partido de la final, anunciando posteriormente el
 equipo ganador como campeón del mundo.
 Requisitos con la fase de grupos●Al arrancar el programa se deberá mostrar por pantalla la información de los equipos que
 hay en cada grupo y la planificación de partidos del mismo.
 ○Nombre del grupo
 ○Listado de los equipos (una en cada línea)
-●La asignación de los equipos a cada grupo se realizará de manera aleatoria.
-●Después se anunciará con un Letreroto el comienzo del torneo
-●A continuación se mostrarán los resultados de los partidos y la clasificación de cada
+La asignación de los equipos a cada grupo se realizará de manera aleatoria.
+Después se anunciará con un Letreroto el comienzo del torneo
+A continuación se mostrarán los resultados de los partidos y la clasificación de cada
 grupo tras el final de la primera jornada de partidos, después los de la segunda jornada, y
 finalmente los de la tercera jornada.
-●Una vez finalice la fase de grupos, se deberán anunciar el comienzo de la fase de
+Una vez finalice la fase de grupos, se deberán anunciar el comienzo de la fase de
 eliminatorias.
-●A partir de aquí, se continuaría con los requisitos del programa mínimo
+A partir de aquí, se continuaría con los requisitos del programa mínimo
 IMPORTANTE: la práctica será apta si se cumple con los 4 puntos obligatorios del
 programa mínimo. Si se decide o bien hacer el punto opcional del programa mínimo, o si se
 decide entregar con la fase de grupos, no serán criterio de evaluación
