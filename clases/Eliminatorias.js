@@ -6,7 +6,7 @@ const FaseGrupos = 0;
 const Octavos = 1;
 const Cuartos = 2;
 const SemiFinal = 3;
-const ResultadoSemiF = 4
+const ResultadoSemiF = 4;
 const Final = 5;
 
 
